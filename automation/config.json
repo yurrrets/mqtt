@@ -1,0 +1,8 @@
+{
+    "mqtt": {
+        "url": "mqtt://192.168.1.14",
+        "options": {}
+    },
+    "topic": "cmnd/tasmota_AE1706/",
+    "subscribe_topic": "stat/tasmota_AE1706/"
+}
